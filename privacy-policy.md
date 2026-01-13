@@ -5,25 +5,25 @@
 ---
 
 ## 1. Introduction
-Welcome to **Railgari** ("we," "our," or "us"). Railgari is a train tracking and utility app developed by **Abdul Aziz Mia** (under the brand **xcodean**). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
+Welcome to **Railgari** ("we," "our," or "us"). Railgari is a train tracking and utility app developed by **Abdul Aziz Mia** (under the brand **xcodean**). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (**"Railgari App"**).
 
-By using the App, you agree to the collection and use of information in accordance with this policy. If you do not agree with the terms of this privacy policy, please do not access the application.
+By using Railgari App, you agree to the collection and use of information in accordance with this policy. If you do not agree with the terms of this privacy policy, please do not access Railgari App.
 
 ---
 
 ## 2. Information We Collect
 
 ### A. Personal Data
-We may collect personally identifiable information that you voluntarily provide to us when you register for the App, including:
+We may collect personally identifiable information that you voluntarily provide to us when you register for Railgari App, including:
 * **Name and Email Address:** For account creation and verification.
 * **Mobile Number:** For user authenticity and account recovery.
 * **Profile Picture:** To personalize your profile in the community chat.
 
 ### B. Geo-Location Information (Crucial)
 **Foreground & Background Location:**
-Railgari collects your device's location data to enable the **"Live Train Tracking"** feature. This allows the app to crowdsource train location data to help other passengers track the train's position in real-time.
+Railgari App collects your device's location data to enable the **"Live Train Tracking"** feature. This allows Railgari App to crowdsource train location data to help other passengers track the train's position in real-time.
 
-* **How it works:** When you are traveling on a train and enable tracking, the app collects location data even when the app is closed or not in use (background), provided you have granted the necessary permissions.
+* **How it works:** When you are traveling on a train and enable tracking, Railgari App collects location data even when the app is closed or not in use (background), provided you have granted the necessary permissions.
 * **Usage:** This data is strictly used to map the train's location and is not used to track your personal whereabouts outside of the train journey context.
 
 ### C. Device and Usage Data
@@ -54,7 +54,7 @@ We may share information with third-party vendors and service providers to facil
 ---
 
 ## 5. Community Chat & User Content
-The App offers a community chat feature. Please be aware that any information (text, images) you disclose in these public areas becomes public information. You should exercise caution when deciding to disclose your personal information. We strictly prohibit harassment, hate speech, or illegal content.
+Railgari App offers a community chat feature. Please be aware that any information (text, images) you disclose in these public areas becomes public information. You should exercise caution when deciding to disclose your personal information. We strictly prohibit harassment, hate speech, or illegal content.
 
 ---
 
@@ -75,7 +75,7 @@ We use administrative, technical, and physical security measures to help protect
 ---
 
 ## 8. Children's Privacy
-Railgari does not knowingly solicit information from or market to children under the age of 13. If we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.
+Railgari App does not knowingly solicit information from or market to children under the age of 13. If we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.
 
 ---
 
