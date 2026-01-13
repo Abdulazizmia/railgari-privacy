@@ -5,7 +5,7 @@
 ---
 
 ## 1. Introduction
-Welcome to **Railgari** ("we," "our," or "us"). Railgari is a train tracking and utility app developed by **xcodean**. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
+Welcome to **Railgari** ("we," "our," or "us"). Railgari is a train tracking and utility app developed by **Abdul Aziz Mia** (under the brand **xcodean**). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
 
 By using the App, you agree to the collection and use of information in accordance with this policy. If you do not agree with the terms of this privacy policy, please do not access the application.
 
@@ -89,4 +89,4 @@ If you have questions or comments about this Privacy Policy, please contact us a
 
 * **Email:** [xcodean.office@gmail.com](mailto:xcodean.office@gmail.com)
 * **Website:** [https://railgari.xcodean.com](https://railgari.xcodean.com)
-* **Developer:** xcodean
+* **Developer:** Abdul Aziz Mia
